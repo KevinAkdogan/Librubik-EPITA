@@ -1,0 +1,25 @@
++1,+1,+1,b,c,a,
+-1,-1,-1,b,a,c,FD2F'
+-1,-1,-1,c,b,a,D2 FRF2R'F'
+-1,-1,-1,a,c,b,R'D2R
+-1,-1,1,c,a,b,L'D2L R'D'R
+-1,-1,1,b,c,a,L'D2L FDF'
+-1,-1,1,a,b,c,L'D2L FRF2R'F'
+-1,1,-1,b,c,a,D' FRF2R'F'
+-1,1,-1,c,a,b,DR'D2R
+-1,1,-1,a,b,c,FD'F'
+-1,1,1,c,b,a,RD2R'D R'D'R
+-1,1,1,b,a,c,RD2R'D FDF'
+-1,1,1,a,c,b,RD2R'D FRF2R'F'
+1,-1,-1,b,c,a,D FRF2R'F'
+1,-1,-1,c,a,b,R'DR
+1,-1,-1,a,b,c,DR'D'R
+1,-1,1,b,a,c,LDL' FDF'
+1,-1,1,c,b,a,LDL' R'D'R
+1,-1,1,a,c,b,LDL' FRF2R'F'
+1,1,-1,b,a,c,R'D'R
+1,1,-1,c,b,a,FRF2R'F'
+1,1,-1,a,c,b,FDF'
+1,1,1,b,c,a,
+1,1,1,c,a,b,R'D'RD R'D'R
+1,1,1,a,b,c,R'D'RD FRF2R'F'

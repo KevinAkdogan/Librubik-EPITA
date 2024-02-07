@@ -1,0 +1,17 @@
++1,+1,0,a,b,_,
+-1,-1,0,a,b,_,L2D2L2D2L2 F2D2F2D2F2 L2D2L2D2L2
+-1,-1,0,b,a,_,L2D2L2D2L2 F2D2F2D2F2 L2D2L2D2L2 R'DR'D2 F'R2F D2R2
+-1,0,-1,a,_,b,D2 D' R' D R D F D' F'
+-1,0,-1,b,_,a,D2 D' R' D R D F D' F' R'DR'D2 F'R2F D2R2
+-1,+1,0,a,b,_,R2 D2 R2 D2 R2
+-1,+1,0,b,a,_,R2 D2 R2 D2 R2 R'DR'D2 F'R2F D2R2
+0,-1,-1,_,a,b,D D' R' D R D F D' F'
+0,-1,-1,_,b,a,D D' R' D R D F D' F' R'DR'D2 F'R2F D2R2
+0,+1,-1,_,a,b,D' D' R' D R D F D' F'
+0,+1,-1,_,b,a,D' D' R' D R D F D' F' R'DR'D2 F'R2F D2R2
++1,-1,0,a,b,_,F2 D2 F2 D2 F2
++1,-1,0,b,a,_,F2 D2 F2 D2 F2 R'DR'D2 F'R2F D2R2
++1,0,-1,a,_,b,D' R' D R D F D' F'
++1,0,-1,b,_,a,D' R' D R D F D' F' R'DR'D2 F'R2F D2R2
++1,+1,0,a,b,_,
++1,+1,0,b,a,_,R'DR'D2 F'R2F D2R2

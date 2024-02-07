@@ -1,0 +1,58 @@
+Done,U,U,U,U,U,U,U,U,U,
+Sune,B,U,R,U,U,U,U,U,F, R U R' U R U2 R'
+Anti sune,L,U,B,U,U,U,F,U,U, L' U' L U' L' U2 L
+Double sune,L,U,R,U,U,U,L,U,R, R U R' U R U' R' U R U2 R'
+Wheel,L,U,B,U,U,U,L,U,F, R U2 R2 U' R2 U' R2 U2 R
+Superman,B,U,B,U,U,U,U,U,U, R2 D' R U2 R' D R U2 R
+Shark,B,U,U,U,U,U,F,U,U, L F R' F' L' F R F'
+Bowtie,U,U,B,U,U,U,L,U,U, R U2 R' U' RUR'U' RUR'U' R U' R'
+Blank,L,B,R,L,U,R,L,F,R, RU2 R2FRF'U2 R'FRF'
+Zamboni,L,B,B,L,U,R,L,F,F, F RUR'U' F' f RUR'U' f'
+Anti mouse,B,B,R,L,U,R,L,F,U, f RUR'U' f' U' F RUR'U' F'
+Mouse,L,B,U,L,U,R,F,F,R, f RUR'U' f' U F RUR'U' F'
+Diagonal,U,B,B,L,U,R,L,F,U, R U R' U R'FRF' U2 R'FRF'
+Crown,L,B,U,L,U,R,L,F,U, R U2 R2 F R F' U2 M' U R U' r'
+Bunny,U,B,U,L,U,R,L,F,R, M U R U R' U' M' R' F R F'
+Couch,U,B,B,U,U,R,U,U,F, L' d' R d L U' L' B' L
+Anti couch,B,B,U,L,U,U,F,U,U, R U B' U' R' U R B R'
+Anti P,U,B,R,U,U,R,U,U,R, B' U' R' U R B
+P,L,B,U,L,U,U,L,U,U, f RUR'U' f'
+Wario,U,B,R,U,U,R,F,U,U, R' U' R U' R' U R U R B' R' B
+Mario,L,B,U,L,U,U,U,U,F, L U L' U L U' L' U' L' B L B'
+Breakneck,L,U,B,U,U,R,L,F,F, F RUR'U' RUR'U' F'
+Anti breakneck,B,U,R,L,U,U,F,F,R, F' L'U'LU L'U'LU F
+Frying pan,L,U,R,U,U,R,L,F,R, l' U' L U' L' U L U' L' U2 l
+Anti frying pan,L,U,R,L,U,U,L,F,R, r U R' U R U' R' U R U2 r'
+Right back squeezy,B,B,R,U,U,R,F,U,R, R B' R2 F R2 B R2 F' R
+Right front squeezy,L,B,B,L,U,U,L,U,F, R B' R B R2 U2 F R' F' R
+City,L,B,R,U,U,U,U,F,U, R U R2 U' R' F R U R U' F'
+Seein' headlights,U,U,R,L,U,R,U,U,R, R' U' R' F R F' U R
+Key,B,B,U,U,U,U,F,F,U, RUR'U' R'FRF'
+T,L,B,U,U,U,U,L,F,U, F RUR'U' F'
+Highway,L,U,R,L,U,R,L,U,R, R U2 R2 U' R U' R' U2 F R F'
+Streetlights,L,B,R,U,U,U,L,F,R, r U r' U R U' R' U R U' R' r U' r'
+Ant,B,B,R,U,U,U,F,F,R, F U R U' R' U R U' R' F'
+Rice cooker,B,U,R,L,U,R,F,U,R, R' U' R U' R' d R' U R B
+Lefty square,B,B,R,L,U,U,L,U,U, r'U2 RUR'Ur
+Righty square,L,B,B,U,U,R,U,U,R, l U2 L' U' L U' l'
+Fung,B,B,U,U,U,U,U,F,R, L F' L'U'LU F U' L'
+Anti fung,U,B,B,U,U,U,L,F,U, R' F RUR'U' F' U R
+Lightning,B,U,R,U,U,R,U,F,F, r U R' U R U2 r'
+Reverse lightning,L,U,B,L,U,U,F,F,U, l' U' L U' L' U2 l
+Downstairs,U,B,R,U,U,R,L,U,F, R U' R' U' R U' R' U2 F' U F U' R U R'
+Upstairs,L,B,U,L,U,U,F,U,R, F RUR'U' F' U F RUR'U' F'
+Kite,L,U,B,L,U,U,U,F,R, R' U' R U' R' U R' F R F' U R
+Anti kite,B,U,R,U,U,R,L,F,U, R'M'U2 RUR'U RURr'
+Fish salad,U,B,R,L,U,U,F,U,U, R U2 R2 F R F' R U2 R'
+Mounted fish,B,B,U,U,U,R,U,U,R, R B' R' B U B U' B'
+Gun,B,B,R,U,U,U,U,F,F, F U R U' R2 F' R U R U' R'
+Anti gun,L,B,B,U,U,U,F,F,U, F' U' L' U2 L U L' U' L F
+Squeegee,B,B,R,U,U,U,L,F,U, r' U' r R' U' R U r' U r
+Anti squeegee,L,B,B,U,U,U,U,F,R, l U l' L U L' U' l U' l'
+Spotted chameleon,U,B,U,U,U,R,L,U,R, M U RUR'U' R'FRF' M'
+Anti-spotted chameleon,U,B,U,L,U,U,L,U,R, r' U2 R U R' U r R U2 R' U' R U' R'
+Awkward fish,U,B,U,L,U,U,F,U,F, R' M2 U' F' U F r U' M'
+Lefty awkward fish,U,B,U,U,U,R,F,U,F, R' U' R U F R U R' U' R' U R U' F'
+Arrow,U,U,U,U,U,R,U,F,U, r U R' U' r' R U R U' R'
+H,U,B,U,U,U,U,U,F,U, R U R' U' M' U R U' r'
+X,U,B,U,L,U,R,U,F,U, r' R U R U R' U' r2 R2 U R U' r'
